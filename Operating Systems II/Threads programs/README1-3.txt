@@ -25,8 +25,11 @@ To πρόγραμμα "threads1-3" σε C υπολογίζει «παράλλη�
 - μεταβλητή 8: 8
 
 -- English version:
+<<<<<<< HEAD
 == The following program has been implemented on a linux terminal and has been compiled with the 'gcc' compiler. ==
 
+=======
+>>>>>>> main
 The program "threads1-3" in C programming language calculates all at the same time the sum of the squares of the elements
 of a vector A (a1 ^ 2 + a2 ^ 2 +… + an ^ 2) [with the help of ‘p’ threads where each thread calculates the individual
 sum of ‘n / p’ terms (squares) of the sum - p, n, ai should be given by the user
